@@ -1,0 +1,17 @@
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\bin\Debug\net7.0\Entities.dll
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\bin\Debug\net7.0\Entities.pdb
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Usuários\Repositórios\tech-test-payment-api-main\TechPaymentapi\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
